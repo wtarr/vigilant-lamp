@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RaylibTemplate.cpp">
+    <ClCompile Include="RandomWalk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
